@@ -34,8 +34,12 @@
         },
         {
             "name": "data.csv"
+        },
+        {
+            "desc": "1)\tLoad the dataset: hotelSurveyBarriot.json (similar to HW8, but a different dataset)\r\n2)\tName the dataframe hotelSurvey\r\n",
+            "name": "script8165.R"
         }
     ],
-    "updated_at": "2018-11-07 20:49:03",
+    "updated_at": "2018-11-07 20:51:33",
     "url": "https://github.com/fall2018-wallace/hw9"
 }
