@@ -3,26 +3,12 @@
         "yzhong18"
     ],
     "created_at": "2018-11-07 20:49:03",
-    "edges": [
-        {
-            "ports": [
-                {
-                    "output": "clean_data",
-                    "type": "csv"
-                }
-            ],
-            "source": "clean.R",
-            "target": "data.csv"
-        }
-    ],
+    "edges": [],
     "nodes": [
-        {
-            "name": "clean.R"
-        },
         {
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-11-07 20:57:14",
+    "updated_at": "2018-11-07 20:57:20",
     "url": "https://github.com/fall2018-wallace/hw9"
 }
