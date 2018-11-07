@@ -4,11 +4,7 @@
     ],
     "created_at": "2018-11-07 20:49:03",
     "edges": [],
-    "nodes": [
-        {
-            "name": "data.csv"
-        }
-    ],
-    "updated_at": "2018-11-07 20:57:20",
+    "nodes": [],
+    "updated_at": "2018-11-07 20:57:23",
     "url": "https://github.com/fall2018-wallace/hw9"
 }
